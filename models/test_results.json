@@ -1,0 +1,35 @@
+{
+    "Test Configuration": {
+        "Control Users": 10000,
+        "Treatment Users": 10000,
+        "Total Users": 20000,
+        "Test Duration": "20 days (simulated)"
+    },
+    "Conversion Metrics": {
+        "Control Rate": "11.45%",
+        "Treatment Rate": "14.09%",
+        "Absolute Lift": "2.64 pp",
+        "Relative Lift": "23.06%"
+    },
+    "Statistical Significance": {
+        "P-value": "0.000000",
+        "Significant": "Yes",
+        "Confidence Interval": "[1.72%, 3.56%]",
+        "Z-statistic": "5.5932"
+    },
+    "Bayesian Analysis": {
+        "P(Treatment > Control)": "100.00%",
+        "Expected Lift": "2.64 pp",
+        "Credible Interval": "[1.71%, 3.57%]"
+    },
+    "Business Impact": {
+        "Revenue per User Lift": "$3.27",
+        "Monthly Impact (100K users)": "$327,424",
+        "Annual Impact": "$3,929,086"
+    },
+    "Recommendation": {
+        "Decision": "\u2705 LAUNCH TREATMENT",
+        "Confidence": "Very High",
+        "Risk": "Very Low"
+    }
+}
