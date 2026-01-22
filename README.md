@@ -155,6 +155,7 @@ streamlit run app.py
 ## 👤 Author
 
 **[Emmanuel Nwanguma]**
+
 Data Scientist focused on experimentation, forecasting, and decision-making under uncertainty.
 
 - LinkedIn: [Emmanuel NWanguma](https://www.linkedin.com/in/nwangumaemmanuel)
